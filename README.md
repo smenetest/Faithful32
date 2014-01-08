@@ -22,6 +22,9 @@ This repository is a complete resource pack, you do not need to add this to vani
 Downloading and Usage:
 
 1) Download the latest pack from the download section.
+
 2) Run Minecraft, select "Options...", select "Texture Packs", select "Open texture pack folder".
+
 3) Drag and drop the downloaded pack into the texture pack folder.
+
 4) Go back to Minecraft and select the Faithful 32x32 pack and you are done.
